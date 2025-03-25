@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chinmayrkadu@gmail.com**
 
-- 💬 Portfolio [https://portfoliochinmay19.netlify.app/](https://portfoliochinmay19.netlify.app/)
+- 💬 Portfolio https://chinmaykadu19.netlify.app/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1D_KbYfrCvVquC9RD3b7_lCGRWQs8FXhD/view](https://drive.google.com/file/d/1D_KbYfrCvVquC9RD3b7_lCGRWQs8FXhD/view)
 
