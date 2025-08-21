@@ -3,9 +3,9 @@
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
-- 🔭 I’m currently working on **MedConnect Portal**
+- 🔭 I’m currently working on **Releva Health Portal**
 
-- 🌱 I’m currently learning **Database Management System**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 💬 Ask me about **DSA & OOPS in java,**
 
